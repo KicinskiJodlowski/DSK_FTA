@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "howto_family_tree", "howto_family_tree.csproj", "{8F39AADD-325E-4346-B62D-FAEFCE1E868A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSK_FTA", "DSK_FTA.csproj", "{8F39AADD-325E-4346-B62D-FAEFCE1E868A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

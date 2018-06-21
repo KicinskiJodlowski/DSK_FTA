@@ -72,7 +72,7 @@
             this.Controls.Add(this.picTree);
             this.Controls.Add(this.statusStrip1);
             this.Name = "Form1";
-            this.Text = "howto_family_tree";
+            this.Text = "FAILURE TREE ANALISYS";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picTree)).EndInit();
             this.statusStrip1.ResumeLayout(false);
